@@ -1,1 +1,2 @@
-# Project 1 in my webdev practice series
+# Project 1 
+Just an attempt at a starter portfolio page
