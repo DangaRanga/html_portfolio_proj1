@@ -4,23 +4,14 @@
     box-sizing: border-box;
 }
 body{
-    background: url(bg.jpg) no-repeat;
-    background-size: cover;
     font-family: 'Montserrat', sans-serif;
-    background-color: #08080a7c;
-}
+    background: url(bg.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
 
-.bg{
-    display:block;
-    align-content: center;
-    margin-left: auto;
-    margin-right:auto;
-    width:50%;
-    height:50%
-}
-.bgimg img{
-    height:300px;
-    width:300px;
+    /*background-color: #08080a7c; */
 }
 
 
@@ -91,6 +82,6 @@ nav{
 }
 
 .nav-button:hover{
-    background-color: #08080abc;
+    background-color: #060607c0;
 
 }
